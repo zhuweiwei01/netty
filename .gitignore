@@ -34,3 +34,16 @@ bin/*
 *.class
 *.log
 *.pdf
+*/*/target/*/*.properties
+rpc-server/rpc-server-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+rpc-server/rpc-server-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+rpc-server/rpc-server-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+rpc-server/rpc-server-provider/target/rpc-server-provider-0.0.1-SNAPSHOT.jar
+rpc-server/rpc-api/.settings/org.eclipse.jdt.core.prefs
+rpc-server/rpc-api/.settings/org.eclipse.m2e.core.prefs
+rpc-server/rpc-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+rpc-server/rpc-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+rpc-server/rpc-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+rpc-server/rpc-api/target/rpc-api-0.0.1-SNAPSHOT.jar
+rpc-server/rpc-server-provider/.settings/org.eclipse.jdt.core.prefs
+rpc-server/rpc-server-provider/.settings/org.eclipse.m2e.core.prefs
